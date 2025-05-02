@@ -28,5 +28,3 @@ Vedanta Chatbot is an intelligent assistant powered by deep learning that provid
 - 🕉️ Shlokas provided in **Sanskrit**
 - 💬 Easy-to-use API interface for integration
 - 🧘 Terminal interface for spiritual self-inquiry
-- 
-
